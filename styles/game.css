@@ -19,22 +19,6 @@ main {
   gap: 0.5rem;
 }
 
-.simple-button {
-  display: block;
-  margin: 0 auto;
-  width: fit-content;
-  height: fit-content;
-  color:rgb(255, 255, 255);
-  background-color: rgb(0, 0, 0);
-	font-family: "Rokkitt", serif;
-  font-size: 1.25rem;
-}
-
-#know-game a {
-  color:rgb(255, 255, 255);
-  text-decoration: none;
-}
-
 #choices-area, #buttons-area, #score-area {
   display: flex;
   justify-content: space-between;
